@@ -9,7 +9,8 @@ Free Spririted Caribbean Woman.
 Software Developer and aspiring Game Developer
 
 # Project 
-![Video](./public/learn-auth.gif)
+For the video it takes a minute before the notification pops up
+![Video](src/assets/pwa-push.gif)
 
 ## Experience with Project
 - The experience with this project was very thrilling
