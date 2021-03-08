@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "759456610194",
+    "project_id": "pwa-push-4e920",
+    "storage_bucket": "pwa-push-4e920.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:759456610194:android:935e65c051a169652d734b",
+        "android_client_info": {
+          "package_name": "com.devdactic.devpush"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "759456610194-tgmi0sqv4dqd778v4184rdjbof5dq4cv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBtHnU--2dd8pbMlsG1rRD0GFZqYO_6CAQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "759456610194-tgmi0sqv4dqd778v4184rdjbof5dq4cv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
