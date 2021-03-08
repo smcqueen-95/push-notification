@@ -10,6 +10,7 @@ Software Developer and aspiring Game Developer
 
 # Project 
 For the video it takes a minute before the notification pops up
+
 ![Video](src/assets/pwa-push.gif)
 
 ## Experience with Project
